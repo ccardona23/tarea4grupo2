@@ -1,0 +1,30 @@
+@media (max-width:988px){
+    .img{
+        
+        margin-left: 200px;
+      }
+}
+@media (max-width:852px){
+    .img{
+        
+        margin-left: 150px;
+      }
+}
+@media (max-width:744px){
+.main{
+    width: 80%;
+}
+}
+@media (max-width:564px){
+    .img{
+        
+        margin-left: 120px;
+      }
+}
+@media (max-width:512px){
+    .img{
+        width: 200px;
+        height: 200px;
+        margin-left: 150px;
+      }
+}
